@@ -1,0 +1,14 @@
+D:\Koulu\Java_TS\testi2\bin\Debug\net7.0\testi2.exe
+D:\Koulu\Java_TS\testi2\bin\Debug\net7.0\testi2.deps.json
+D:\Koulu\Java_TS\testi2\bin\Debug\net7.0\testi2.runtimeconfig.json
+D:\Koulu\Java_TS\testi2\bin\Debug\net7.0\testi2.dll
+D:\Koulu\Java_TS\testi2\bin\Debug\net7.0\testi2.pdb
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\testi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\testi2.AssemblyInfoInputs.cache
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\testi2.AssemblyInfo.cs
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\testi2.csproj.CoreCompileInputs.cache
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\testi2.dll
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\refint\testi2.dll
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\testi2.pdb
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\testi2.genruntimeconfig.cache
+D:\Koulu\Java_TS\testi2\obj\Debug\net7.0\ref\testi2.dll
