@@ -1,9 +1,8 @@
-package com.testi;
+package main.java.com.example;
 
 public class T4
 {
-    public static void main(String[] args)
-    {
+    public void Teht4() {
         int[][] matrix = {
             {1, 5, 7},
             {9, 3, 1},
@@ -13,8 +12,7 @@ public class T4
 
         System.out.println("Vastaus: [" + maxIndex[0] + ", " + maxIndex[1] + "]");
     }
-    public static int[] findMaxIndex(int[][] matrix)
-    {
+    public static int[] findMaxIndex(int[][] matrix) {
         int max = Integer.MIN_VALUE;
         int[] maxIndex = new int[2];
         
